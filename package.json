@@ -1,0 +1,18 @@
+{
+  "name": "pola-slot-olympus",
+  "main": "./lib/pola-slot-olympus",
+  "version": "1.0.0",
+  "description": "Cara Main Gacor Info Terbaik Pola Slot Olympus WAP",
+  "keywords": ["slot toto","slot toto","agen slot online","toptrend gaming slot","situs judi slot online","slot habanero","agentotoplay","bandar slot","spade gaming","toto slot"],
+
+  "activationCommands": {
+    "atom-workspace": "pola-slot-olympus:toggle"
+  },
+  "repository": "https://github.com/gameslotpenghasiluang11/pola-slot-olympus",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

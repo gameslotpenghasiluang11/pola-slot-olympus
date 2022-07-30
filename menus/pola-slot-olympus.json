@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle pola-slot-olympus",
+        "command": "pola-slot-olympus:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "pola-slot-olympus",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "pola-slot-olympus:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
